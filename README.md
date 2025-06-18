@@ -7,8 +7,8 @@ Because of this last-minute discovery, I could not update and redeploy the appli
 However, the complete and functional source code is available in this repository, and with the correct environment setup (including installing all required dependencies), the application can be run locally without issues.
 
 # 💡 API Usage Details
-For Answering Questions (main.py):
-I have used Hugging Face Inference API (via Zephyr model) to generate answers based on matched course content.
+For Answering Questions (app.py):
+I have used Hugging Face Inference API to generate answers based on matched course content.
 
 For Embedding Course Content (embed_chunks.py):
 I intended to use Gemini's embedding model (gemini-embedding-exp-03-07) to generate and store content embeddings.
