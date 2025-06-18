@@ -1,0 +1,539 @@
+### Can't touch type lol ###
+
+22f3001311:
+<p>Yup, a bit embarrassed when i say this but still can’t touch type. I have been writing code for the past few years, but i have realized I often need to look at the keyboard to type. My typing style is… let’s just say unconventional (I don’t use all my fingers <img src="https://emoji.discourse-cdn.com/google/sob.png?v=14" title=":sob:" class="emoji" alt=":sob:" loading="lazy" width="20" height="20">). I am starting my internship in a few days and so would love to have some resources or any piece of advice on how to get better at typing. I am pretty slow.</p> <p>P.S. I know programming is more about problem solving than raw typing speed, but I just want to get more comfortable and efficient.</p> <p>Thank you.</p>
+
+Anand:
+<p>Heard about this. <a href="https://www.speedcoder.net/" rel="noopener nofollow ugc">Typing Practice for Programmers | SpeedCoder</a>. Haven’t tried personally.</p> <p>If you’re using VSCode, use Copilot, and it works like magic.</p>
+
+Arun2:
+<aside class="quote group-ds-students" data-username="22f3001311" data-post="1" data-topic="173515"> <div class="title"> <div class="quote-controls"></div> <img alt="" width="24" height="24" src="https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001311/48/87336_2.png" class="avatar"> 22f3001311:</div> <blockquote> <p>some resources or any piece of advice on how to get better at typing</p> </blockquote> </aside> <p>Try <a href="https://www.edclub.com/sportal/" class="inline-onebox" rel="noopener nofollow ugc">edclub</a>, it’s free and gamified, so you’re less likely to break from your lesson plan. (Premium plan removes ads and gives you better analytics on how you’re doing)</p> <aside class="quote group-ds-students" data-username="22f3001311" data-post="1" data-topic="173515"> <div class="title"> <div class="quote-controls"></div> <img alt="" width="24" height="24" src="https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001311/48/87336_2.png" class="avatar"> 22f3001311:</div> <blockquote> <p>Yup, a bit embarrassed when i say this but still can’t touch type.</p> </blockquote> </aside> <p>I can’t touch type either but I do use all 10 fingers and manage 60-70wpm. Have started on touch typing at least 5 times till date but never managed to make it work. Thankfully I’m not easily embarrassed and there will be more attempts <img src="https://emoji.discourse-cdn.com/google/smiley.png?v=14" title=":smiley:" class="emoji" alt=":smiley:" loading="lazy" width="20" height="20"><br> A big reason for not being able to make it work is that touch typing is much slower when you’re starting off because it’s a new pattern. When you’re working under the pressure of time, it’s natural to regress to methods that work fine. It’s good that you’re looking to fix this before you start off on your career. It gets a lot harder if you try to do it later.</p> <aside class="quote group-ds-students" data-username="22f3001311" data-post="1" data-topic="173515"> <div class="title"> <div class="quote-controls"></div> <img alt="" width="24" height="24" src="https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001311/48/87336_2.png" class="avatar"> 22f3001311:</div> <blockquote> <p>P.S. I know programming is more about problem solving than raw typing speed,</p> </blockquote> </aside> <p>I’ll give you one more reason to learn touch typing. It reduces the load on your fingers, wrist and forearms by minimising movement. If you’re typing all day which is typical of most desk jobs, this is a big benefit. Might not seem like much right now, but you’ll thank yourself when you’re older.</p> <p>All the best!</p>
+
+Anand:
+<aside class="quote group-ds-students" data-username="Arun2" data-post="3" data-topic="173515"> <div class="title"> <div class="quote-controls"></div> <img alt="" width="24" height="24" src="https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/arun2/48/27130_2.png" class="avatar"> Arun2:</div> <blockquote> <p>but you’ll thank yourself when you’re older.</p> </blockquote> </aside> <p>absolutely!</p> <p>If there’s one thing that I did perfectly well in my life, that’s to learn typing. I haven’t tried to measure my speed, but I can type pretty fast, purely mechanically. Of course, I’ve conveniently ignored the number of mistakes I make during the process…but, then I can use the Backspace key with equal or even more speed <img src="https://emoji.discourse-cdn.com/google/grinning.png?v=14" title=":grinning:" class="emoji" alt=":grinning:" loading="lazy" width="20" height="20"></p> <p>After my 10th class, most of our age group went to a typing class (on a typewriter, which I bet most of you haven’t even heard of, let alone have seen one). The thinking those days was, if nothing, we would make it to a typist position in a government. office. Whatever that was, it is easily the best thing that happened to me, ever!</p>
+
+devam_07:
+<p>Thank you for this post, I too face the same issue. I use index finger, middle finger and thumb still <img src="https://emoji.discourse-cdn.com/google/face_with_peeking_eye.png?v=14" title=":face_with_peeking_eye:" class="emoji" alt=":face_with_peeking_eye:" loading="lazy" width="20" height="20"> which stresses my fingers. I also want to learn touch typing, thank you for the sources <a class="mention" href="/u/anand">@Anand</a> <a class="mention" href="/u/arun2">@Arun2</a></p>
+
+Baskaran_Nadar:
+<p>Mmm</p> <p>what is touch type ?</p> <p>is it to type without the keyboard on screen ?</p>
+
+Gurkirat:
+<aside class="quote group-ds-students" data-username="Baskaran_Nadar" data-post="6" data-topic="173515"> <div class="title"> <div class="quote-controls"></div> <img alt="" width="24" height="24" src="https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/baskaran_nadar/48/114019_2.png" class="avatar"> Baskaran_Nadar:</div> <blockquote> <p>what is touch type ?</p> <p>is it to type without the keyboard on screen ?</p> </blockquote> </aside> <p>It is basically fast button pressing skills. You have to use all 10 fingers so that you can type quickly without looking at the keyboard.<br> You can practice this online so that you can build muscle memory for each finger. And for certain buttons/keys for each finger.<br> <div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/b/4/b4037d531b20c69f86899013dbef6ba91aa134ff.png" data-download-href="/uploads/short-url/pGtq6ltvGnCor7NNbwGtkDTWiej.png?dl=1" title="Screenshot 2025-05-01 121620" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/b/4/b4037d531b20c69f86899013dbef6ba91aa134ff.png" alt="Screenshot 2025-05-01 121620" data-base62-sha1="pGtq6ltvGnCor7NNbwGtkDTWiej" width="530" height="254"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Screenshot 2025-05-01 121620</span><span class="informations">530×254 55.2 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+Arun2:
+<p>Touch typing is what I used to do in class with my blackberry under the table while also making eye contact with the lecturer <img src="https://emoji.discourse-cdn.com/google/stuck_out_tongue.png?v=14" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:" loading="lazy" width="20" height="20"></p>
+
+Baskaran_Nadar:
+<p>Oh, yes</p> <p>I think in good old days we used have small protrusions or bumps on certain keys of a keyboard, like F and J to guide the fingers.</p> <p>In modern keyboards it is missing ! when did they vanish ?</p>
+
+Arun2:
+<p>Still there on all the keyboards I’ve used. Just checked a couple of laptops and my external keyboard to make sure.</p>
+
+Baskaran_Nadar:
+<p>Thanks Arun.</p> <p>yes they are still there - but the wrinkles in my fingers have overpowered them. <img src="https://emoji.discourse-cdn.com/google/laughing.png?v=14" title=":laughing:" class="emoji" alt=":laughing:" loading="lazy" width="20" height="20"></p>
+
+23f3002696:
+<p>The right pinky has to cover a lottttttttt. <img src="https://emoji.discourse-cdn.com/google/joy.png?v=14" title=":joy:" class="emoji" alt=":joy:" loading="lazy" width="20" height="20"></p>
+
+Gurkirat:
+<aside class="quote group-ds-students" data-username="23f3002696" data-post="12" data-topic="173515" data-full="true"> <div class="title"> <div class="quote-controls"></div> <img alt="" width="24" height="24" src="https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3002696/48/82832_2.png" class="avatar"> 23f3002696:</div> <blockquote> <p>The right pinky has to cover a lottttttttt. <img src="https://emoji.discourse-cdn.com/google/joy.png?v=14" title=":joy:" class="emoji" alt=":joy:" loading="lazy" width="20" height="20"></p> </blockquote> </aside> <p>Me one night before exams in the same situation. <img src="https://emoji.discourse-cdn.com/google/laughing.png?v=14" title=":laughing:" class="emoji" alt=":laughing:" loading="lazy" width="20" height="20"></p>
+
+22f3001210:
+<p>There’s nothing to be embarrassed about it. Only about 10-20% of people can touch type proficiently. For your typing style, there is no one “conventional” method, as everybody has their unique ways of typing.</p> <p>Among my fellow typists, some use 6 fingers and cross 170 wpm, whereas some even use 10 and still at 120-130 wpm. Using all fingers is definitely I’d recommend to learn if you’re just starting (as some of them regret now), but the point was that more fingers will not always equal to more speed. It will be more convenient.</p> <p>If you want to improve in general and learn touch type, you can use <a href="http://keybr.com" rel="noopener nofollow ugc">keybr.com</a>. For practice, use <a href="http://10fastfingers.com" rel="noopener nofollow ugc">10fastfingers.com</a>, <a href="http://typeracer.com" rel="noopener nofollow ugc">typeracer.com</a>.</p> <p>If you want to learn it for coding, you can use <a href="https://speedtyper.dev" rel="noopener nofollow ugc">speedtyper.dev</a></p> <p>Few points when learning:</p> <ol> <li>It takes time. Can be very frustrating in the start as building muscle memory will take time, this is where most people quit.</li> <li>If you’re getting urge to look at the keys, one method is you can place a handkerchief on your keyboard forcing your fingers to locate the keys.</li> <li>Accuracy &gt; Speed at the beginning. Speed will come as your muscle memory builds. Try maintaining 95%+.</li> </ol> <p>Once you get comfortable with touch typing and going around 100 wpm, then there will be some other points on how to improve further from there which I’ll skip for now.</p>
+
+22f3001210:
+<p>I had also made my finger map once. Deviates quite a lot from the standard. As the standard methods are not the best ones. Even the ‘home-row’ method isn’t the most efficient one.</p> <p><div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/3/2/322a498504e1b535cf0310f29c4ea77f91a7a4f1.png" data-download-href="/uploads/short-url/79MtlKBhRmtDTYAdYHQQENViDqF.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/2/322a498504e1b535cf0310f29c4ea77f91a7a4f1_2_517x260.png" alt="image" data-base62-sha1="79MtlKBhRmtDTYAdYHQQENViDqF" width="517" height="260" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/2/322a498504e1b535cf0310f29c4ea77f91a7a4f1_2_517x260.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/2/322a498504e1b535cf0310f29c4ea77f91a7a4f1_2_775x390.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/3/2/322a498504e1b535cf0310f29c4ea77f91a7a4f1.png 2x" data-dominant-color="4F4A5D"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">881×444 28.9 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+hrshlgunjal:
+<p>First of all, why should you listen to what I have to say? Because I type at <strong>100+ wpm</strong>, this is my profile on monkeytype:</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://monkeytype.com/profile/harshalgunjal"> <header class="source"> <img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/1/6/16ed31797a81a1d0c48d77b7de066a6a85a66499.png" class="site-icon" data-dominant-color="4F4A31" width="16" height="16"> <a href="https://monkeytype.com/profile/harshalgunjal" target="_blank" rel="noopener nofollow ugc">monkeytype.com</a> </header> <article class="onebox-body"> <div class="aspect-image" style="--aspect-ratio:512/256;"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/a/b/abe55c980120e8e9e4aad896d9d87e8c85bf3324.png" class="thumbnail" data-dominant-color="3A3B3C" width="512" height="256"></div> <h3><a href="https://monkeytype.com/profile/harshalgunjal" target="_blank" rel="noopener nofollow ugc">Monkeytype | A minimalistic, customizable typing test</a></h3> <p>The most customizable typing test website with a minimal design and a ton of features. Test yourself in various modes, track your progress and improve your speed.</p> </article> <div class="onebox-metadata"> </div> <div style="clear: both"></div> </aside> <p>As you can see, I type consistently around 100wpm with a personal best at 110wpm.</p> <p>This is my advice for you to improve quickly:<br> Start with <a href="http://keybr.com" rel="noopener nofollow ugc">keybr.com</a>, and after you unlock all the keys in keybr, then move on to <a href="http://monkeytype.com" rel="noopener nofollow ugc">monkeytype.com</a>. In both the websites practice 30 min to 1 hr every single day. Also always make sure you focus on accuracy. Make sure to be 98-100% in accuracy, no less than that. Please make sure to always be accurate, trust me on this.</p> <p>If you practice <a href="http://keybr.com" rel="noopener nofollow ugc">keybr.com</a> every single day for 1hr, you’ll become a touch typer and reach 50wpm within a week or two for sure. Just trust me, this is how I did it, and this is how I would do it if I were to do it again. Also the fastest way to learn is by doing, so from now on you can never look at the keyboard to type, and I’m saying no matter what you should never look at the keyboard throughout the day, anytime you want to type something, just try to touchtype as much as you can, that’s how you’ll improve really quickly.</p> <p>Follow any finger placement method you see on the internet, since it doesn’t matter what you start with. Once you get to 100wpm, you’ll start making your own custom style, so it doesn’t matter what you start with. Just follow the generic finger placement method in the start like this one:</p> <p><div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/6/7/677d6bbd80fff5f793fb87c8bbe806327ed4be0b.jpeg" data-download-href="/uploads/short-url/eLvTkqlSokZfWHxsd5Jo1JBeDsD.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/6/7/677d6bbd80fff5f793fb87c8bbe806327ed4be0b.jpeg" alt="image" data-base62-sha1="eLvTkqlSokZfWHxsd5Jo1JBeDsD" width="629" height="252"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">629×252 35.4 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p> <p>This is a goldmine of a video:</p> <div class="youtube-onebox lazy-video-container" data-video-id="QAb3ATOpBpE" data-video-title="How To Type Faster (Tips for every stage 0 - 50 - 100 - 150 WPM)" data-video-start-time="" data-provider-name="youtube"> <a href="https://www.youtube.com/watch?v=QAb3ATOpBpE" target="_blank" class="video-thumbnail" rel="noopener nofollow ugc"> <img class="youtube-thumbnail" src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/7/a/7abae744c68df5e50534cbe56d2e44cdb38ff3d9.jpeg" title="How To Type Faster (Tips for every stage 0 - 50 - 100 - 150 WPM)" data-dominant-color="C2AEAA" width="690" height="388"> </a> </div> <p>Make sure to check this one out.</p> <p>Btw, how did you get your internship? Would love to know your experience. I am also looking for internships, but still no luck. If you have any tips to share would love to know them.</p>
+
+iitmanupam:
+<p>The way I learnt was by just refusing to look at the keyboard while typing and keep using each finger at the relevant keyboard position till the letter I needed comes on screen. I became quite proficient in touch typying within 4-5 days but those 4-5 days themselves were quite painful.</p>
+
+aadit:
+<p>I second <a href="http://keybr.com" rel="noopener nofollow ugc">keybr.com</a> !</p>
+
+23f2001123:
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/7/6/7640f51ffad9410ac7a750a2e11715ada0e65dfe.png" data-download-href="/uploads/short-url/gS7vLuNxRLQcA3jWZFT13hn7ea2.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/7/6/7640f51ffad9410ac7a750a2e11715ada0e65dfe_2_690x336.png" alt="image" data-base62-sha1="gS7vLuNxRLQcA3jWZFT13hn7ea2" width="690" height="336" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/7/6/7640f51ffad9410ac7a750a2e11715ada0e65dfe_2_690x336.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/7/6/7640f51ffad9410ac7a750a2e11715ada0e65dfe_2_1035x504.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/7/6/7640f51ffad9410ac7a750a2e11715ada0e65dfe_2_1380x672.png 2x" data-dominant-color="F0EFEB"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1831×893 65.9 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div><br> ■■■■ bro , u type 96 words more than me per minute <img src="https://emoji.discourse-cdn.com/google/slight_smile.png?v=14" title=":slight_smile:" class="emoji" alt=":slight_smile:" loading="lazy" width="20" height="20"> , initially I thought , I would just learn the basics of touch typing and then via my courses and coding I will learn it , but it seems I have to dedicated give some time only on practicing touch typing .<span class="spoiler">They even hided the word ■■■■ , damnn</span></p>
+
+23f2001123:
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/b/2/b2985c54640d909b7aa1bfa421f6f8ace31f3a67.png" data-download-href="/uploads/short-url/ptVq69bXQ83XMMi7YV4P2tAIiof.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/b/2/b2985c54640d909b7aa1bfa421f6f8ace31f3a67_2_690x313.png" alt="image" data-base62-sha1="ptVq69bXQ83XMMi7YV4P2tAIiof" width="690" height="313" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/b/2/b2985c54640d909b7aa1bfa421f6f8ace31f3a67_2_690x313.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/b/2/b2985c54640d909b7aa1bfa421f6f8ace31f3a67_2_1035x469.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/b/2/b2985c54640d909b7aa1bfa421f6f8ace31f3a67_2_1380x626.png 2x" data-dominant-color="393937"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1739×789 44.3 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div><br> bro , here in the first I should only keep qwerty and in the second only English ? and in the language I can seee , * <strong>English 1k</strong>: does this mean the <strong>1,000</strong> most common English words.</p> <ul> <li><strong>English 2k</strong> be the <strong>2,000</strong> most common English words etc ? any other setting suggestions from your side !!</li> </ul>
+
+
+================================================================================
+### Resources for sql ###
+
+Amruta:
+<p>can anyone please how can i prepare for sql so that it will be helpful for internship?</p>
+
+H.BHASKAR_934:
+<p>Which one dbms you use, PostgreSQL or MySql</p>
+
+22f3001411:
+<p>Both! Thank You Sir<br> Again Suggestion Atmost Welcome!</p>
+
+22f3001411:
+<p>Both! Thank You Sir<br> Again Suggestion Atmost Welcome!</p>
+
+
+================================================================================
+### 📚 MLT TA Session Resources – May 2025 Term ###
+
+23f1001171:
+<h2><a name="p-627096-may-2025-mlt-ta-session-15052025-1" class="anchor" href="#p-627096-may-2025-mlt-ta-session-15052025-1"></a><img src="https://emoji.discourse-cdn.com/google/date.png?v=14" title=":date:" class="emoji" alt=":date:" loading="lazy" width="20" height="20"> <strong>May 2025 MLT TA Session – 15/05/2025</strong></h2> <h2><a name="p-627096-week-1-principal-component-analysis-2" class="anchor" href="#p-627096-week-1-principal-component-analysis-2"></a><img src="https://emoji.discourse-cdn.com/google/ledger.png?v=14" title=":ledger:" class="emoji" alt=":ledger:" loading="lazy" width="20" height="20"> Week 1 – Principal Component Analysis</h2> <h2><a name="p-627096-topics-discussed-3" class="anchor" href="#p-627096-topics-discussed-3"></a><img src="https://emoji.discourse-cdn.com/google/pushpin.png?v=14" title=":pushpin:" class="emoji" alt=":pushpin:" loading="lazy" width="20" height="20"> Topics Discussed</h2> <ul> <li>MLT Grading Document Discussion.</li> <li>Gentle Introduction To Machine Learning.</li> <li>Activity Question Doubts.</li> <li>Practice Assignment Doubts.</li> </ul> <h2><a name="p-627096-resources-shared-during-session-4" class="anchor" href="#p-627096-resources-shared-during-session-4"></a><img src="https://emoji.discourse-cdn.com/google/link.png?v=14" title=":link:" class="emoji" alt=":link:" loading="lazy" width="20" height="20"> Resources Shared During Session</h2> <ul> <li><a href="https://drive.google.com/file/d/1LUO_aGB4yUYSYWXuI1YH4DWZAWdldvKx/view?usp=sharing" rel="noopener nofollow ugc">MLT Grading Document and All Important Links</a></li> <li><a href="https://drive.google.com/file/d/1ylSpHRbeb49O7Db1oX0WF6TV25SRPU9v/view?usp=sharing" rel="noopener nofollow ugc">Introduction to ML</a></li> <li><a href="https://drive.google.com/file/d/1sg46N6yniVqUOCL8vfYMQ-AMs-C0SqkV/view?usp=sharing" rel="noopener nofollow ugc">Notes on PCA</a></li> <li><a href="https://drive.google.com/file/d/1Qh8KyWnzikAAg7qY2rYVRG3vLp0or0Ig/view?usp=sharing" rel="noopener nofollow ugc">Activity Questions Week 1 Solution</a></li> <li><a href="https://drive.google.com/file/d/1RorbW_Q4yU3cqLsw3j9YTxYZrQ0vLP29/view?usp=sharing" rel="noopener nofollow ugc">Week 1 Practice Assignment Solution</a></li> </ul>
+
+23f2004679:
+<p>Hello Sir,<br> Can you please consider sharing the notes made by Karthik Sir?<br> You mentioned about them during yesterday’s online session<br> Thank you</p>
+
+Adwitiya_Chauhan:
+<p><a class="mention" href="/u/23f2004679">@23f2004679</a> Here you go:</p> <blockquote> <p>Web version</p> </blockquote> <aside class="onebox allowlistedgeneric" data-onebox-src="https://karthik-iitm.github.io/MLT/"> <header class="source"> <a href="https://karthik-iitm.github.io/MLT/" target="_blank" rel="noopener nofollow ugc">karthik-iitm.github.io</a> </header> <article class="onebox-body"> <h3><a href="https://karthik-iitm.github.io/MLT/" target="_blank" rel="noopener nofollow ugc">MLT</a></h3> </article> <div class="onebox-metadata"> </div> <div style="clear: both"></div> </aside> <blockquote> <p>PDF</p> </blockquote> <aside class="onebox allowlistedgeneric" data-onebox-src="https://drive.google.com/drive/folders/1isE3LLfhYztBkTWA9EjCmMkB8xCyrwdW"> <header class="source"> <img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/0/b/0bccd9ec69dfe94c5e936d7dbff8edc6fa432189.png" class="site-icon" data-dominant-color="76956E" width="32" height="32"> <a href="https://drive.google.com/drive/folders/1isE3LLfhYztBkTWA9EjCmMkB8xCyrwdW" target="_blank" rel="noopener nofollow ugc">Google Drive</a> </header> <article class="onebox-body"> <h3><a href="https://drive.google.com/drive/folders/1isE3LLfhYztBkTWA9EjCmMkB8xCyrwdW" target="_blank" rel="noopener nofollow ugc">Summary - Google Drive</a></h3> </article> <div class="onebox-metadata"> </div> <div style="clear: both"></div> </aside> <p><strong>NOTE:</strong> There are some very minor differences between the two versions (a word here, a sentence there). I would suggest you to go through both.</p>
+
+Adwitiya_Chauhan:
+<p>The following is also a very useful website consisting of FAQs for the subject prepared by <a class="mention" href="/u/pulkitmangal">@PulkitMangal</a> sir:</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://mlt-faqs.vercel.app/"> <header class="source"> <a href="https://mlt-faqs.vercel.app/" target="_blank" rel="noopener nofollow ugc">mlt-faqs.vercel.app</a> </header> <article class="onebox-body"> <h3><a href="https://mlt-faqs.vercel.app/" target="_blank" rel="noopener nofollow ugc">Frequently Asked Questions: Machine Learning Techniques Course – MLT Course FAQs</a></h3> </article> <div class="onebox-metadata"> </div> <div style="clear: both"></div> </aside> <p>In addition to the excellent notes prepared by <a class="mention" href="/u/karthik_pod">@Karthik_POD</a> sir and <a class="mention" href="/u/pulkitmangal">@PulkitMangal</a> sir, you can also refer to the following notes which are prepared by <a class="mention" href="/u/sherry">@Sherry</a> and others.</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://bsc-iitm.github.io/MLT_notes/"> <header class="source"> <img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/e/1/e1742f7a0541ea80ee377342ff55bdf360cd843b_2_454x500.png" class="site-icon" data-dominant-color="525445" width="454" height="500"> <a href="https://bsc-iitm.github.io/MLT_notes/" target="_blank" rel="noopener nofollow ugc">CS2007: Machine Learning Techniques</a> </header> <article class="onebox-body"> <h3><a href="https://bsc-iitm.github.io/MLT_notes/" target="_blank" rel="noopener nofollow ugc">CS2007: Machine Learning Techniques</a></h3> </article> <div class="onebox-metadata"> </div> <div style="clear: both"></div> </aside>
+
+23f1001171:
+<p>You Can Get All The Required Links In The 3rd Slide<br> <a href="https://drive.google.com/file/d/1LUO_aGB4yUYSYWXuI1YH4DWZAWdldvKx/view" rel="noopener nofollow ugc">MLT Grading Document and All Important Links</a><br> <div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/8/6/86c19e980a665a4d57c1879b0eaebc4a9d1c87a7.png" data-download-href="/uploads/short-url/je6O9uHiKGYyix4JWTFLeKKp05p.png?dl=1" title="Screenshot 2025-05-16 at 12.46.14 PM" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/8/6/86c19e980a665a4d57c1879b0eaebc4a9d1c87a7_2_690x399.png" alt="Screenshot 2025-05-16 at 12.46.14 PM" data-base62-sha1="je6O9uHiKGYyix4JWTFLeKKp05p" width="690" height="399" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/8/6/86c19e980a665a4d57c1879b0eaebc4a9d1c87a7_2_690x399.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/8/6/86c19e980a665a4d57c1879b0eaebc4a9d1c87a7_2_1035x598.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/8/6/86c19e980a665a4d57c1879b0eaebc4a9d1c87a7.png 2x" data-dominant-color="FBFBFD"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Screenshot 2025-05-16 at 12.46.14 PM</span><span class="informations">1334×772 60.6 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+24f2002843:
+<p>Sir i last slide there is something mentioned about oppe…<br> is there any oppe in mlt in this term??</p>
+
+23f1001171:
+<p>Yes, But Thats Not Part of Grading. It is Optional and The Contents for OPPE Will Be Covered in Workshop After End Term.</p>
+
+23f2003509:
+<p>sir it will be annoiunced after end term ??</p>
+
+23f1001171:
+<p>Yes, You Will Receive Mail Regarding Workshop After End Term.</p>
+
+23f1001171:
+<h2><a name="p-627619-may-2025-mlt-ta-session-17052025-1" class="anchor" href="#p-627619-may-2025-mlt-ta-session-17052025-1"></a><img src="https://emoji.discourse-cdn.com/google/date.png?v=14" title=":date:" class="emoji" alt=":date:" loading="lazy" width="20" height="20"> <strong>May 2025 MLT TA Session – 17/05/2025</strong></h2> <h2><a name="p-627619-ledger-week-1-principal-component-analysis-2" class="anchor" href="#p-627619-ledger-week-1-principal-component-analysis-2"></a><img src="https://emoji.discourse-cdn.com/google/ledger.png?v=14" title=":ledger:" class="emoji" alt=":ledger:" loading="lazy" width="20" height="20"> Week 1 – Principal Component Analysis</h2> <h2><a name="p-627619-pushpin-topics-discussed-3" class="anchor" href="#p-627619-pushpin-topics-discussed-3"></a><img src="https://emoji.discourse-cdn.com/google/pushpin.png?v=14" title=":pushpin:" class="emoji" alt=":pushpin:" loading="lazy" width="20" height="20"> Topics Discussed</h2> <ul> <li><strong>Introduction to <code>NumPy</code></strong></li> <li><strong>Vector Operations</strong></li> <li><strong>Matrix Operations</strong></li> <li><strong>Array Creation and Initialization</strong></li> <li><strong>Array Manipulation and Reshaping</strong></li> <li><strong>Broadcasting and Slicing</strong></li> <li><strong>PCA Using <code>NumPy</code></strong></li> </ul> <h2><a name="p-627619-session-recording-4" class="anchor" href="#p-627619-session-recording-4"></a><img src="https://emoji.discourse-cdn.com/google/laptop.png?v=14" title=":laptop:" class="emoji" alt=":laptop:" loading="lazy" width="20" height="20"> Session Recording</h2> <ul> <li><a href="https://drive.google.com/file/d/1mYUFu1UEGC8yIWROspJjwDqBBKzRRLkH/view?usp=sharing" rel="noopener nofollow ugc">Watch Here</a></li> </ul> <h2><a name="p-627619-link-resources-shared-during-session-5" class="anchor" href="#p-627619-link-resources-shared-during-session-5"></a><img src="https://emoji.discourse-cdn.com/google/link.png?v=14" title=":link:" class="emoji" alt=":link:" loading="lazy" width="20" height="20"> Resources Shared During Session</h2> <ul> <li><a href="https://drive.google.com/file/d/1es5vA_atzbU76BAUO7XHuQWkWHKg9eT_/view?usp=sharing" rel="noopener nofollow ugc">Vectors</a></li> <li><a href="https://drive.google.com/file/d/1KFG6537Ddce29pPcurvqkdWeqQ1G32aF/view?usp=sharing" rel="noopener nofollow ugc">Matrics</a></li> <li><a href="https://drive.google.com/file/d/19VsmnM2Cvs4f--ShBvvL5TCjSwjcJS2V/view?usp=sharing" rel="noopener nofollow ugc">More on NumPy Array</a></li> <li><a href="https://drive.google.com/file/d/1KJLI_L8IFndG7tsmcRXgUuzhxMLYdJfR/view?usp=sharing" rel="noopener nofollow ugc">Week 1 Programming Assignment Detailed Solution</a></li> </ul> <p><strong>Note :</strong> All the above links are in <code>.ipynb</code> format</p>
+
+23f2003509:
+<p>sir its ask for access</p>
+
+Abhivas:
+<p>Sir,<br> <a class="mention" href="/u/23f1001171">@23f1001171</a><br> Please provide access for the programming assignments videos</p>
+
+24f1000525:
+<p>sir provide me access</p>
+
+23f1001171:
+<aside class="quote" data-post="2" data-topic="175339"> <div class="title"> <div class="quote-controls"></div> <img alt="" width="24" height="24" src="https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/nikita/48/772_2.png" class="avatar"> <a href="https://discourse.onlinedegree.iitm.ac.in/t/access-for-recordings-in-calendar-for-mlt/175339/2">Access for recordings in calendar for MLT</a> <a class="badge-category__wrapper " href="/c/courses/mlt-kb/32"><span data-category-id="32" style="--category-badge-color: #0088CC; --category-badge-text-color: #FFFFFF; --parent-category-badge-color: #3AB54A;" data-parent-category-id="9" data-drop-close="true" class="badge-category --has-parent" title="This category is created to address subject-specific queries related to Machine Learning Techniques"><span class="badge-category__name">Machine Learning Techniques</span></span></a> </div> <blockquote> The first session “Week 1: AQ and Practice” was not recorded. Recording for the second session “Week 1 programming” is available now. Please check. </blockquote> </aside>
+
+23f2003509:
+<p>sir please ask team to release week 0<br> please</p>
+
+23f1001171:
+<p>Issue has been forwarded to the concerned team.</p>
+
+23f2003509:
+<p>sir please pin this chat as you said all imp things will update here</p>
+
+23f1001171:
+
+
+23f2003509:
+<p>than you so much sir</p> <p><div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/a/d/adc3d74b5c0ae7e604a2b895da0b404b4b9ce355.png" data-download-href="/uploads/short-url/oNcbLwexPPp8ZeE3UIZpNHVTVC5.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/a/d/adc3d74b5c0ae7e604a2b895da0b404b4b9ce355_2_690x82.png" alt="image" data-base62-sha1="oNcbLwexPPp8ZeE3UIZpNHVTVC5" width="690" height="82" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/a/d/adc3d74b5c0ae7e604a2b895da0b404b4b9ce355_2_690x82.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/a/d/adc3d74b5c0ae7e604a2b895da0b404b4b9ce355_2_1035x123.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/a/d/adc3d74b5c0ae7e604a2b895da0b404b4b9ce355.png 2x" data-dominant-color="F5F6F6"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1377×164 12.9 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p> <p>and sir can ypi give the general formulaue of combination ??</p>
+
+23f1001171:
+<p><strong>Total Dimension= <span class="math">\sum_{k=0}^{n}\binom{k+n- 1}{k}</span></strong></p> <p>For <span class="math">n=3</span> (3 features):</p> <ul> <li> <p>Degree 0: <span class="math">\binom{3 + 0 - 1}{0} = \binom{2}{0} = 1</span></p> </li> <li> <p>Degree 1: <span class="math">\binom{3 + 1 - 1}{1} = \binom{3}{1} = 3</span></p> </li> <li> <p>Degree 2: <span class="math">\binom{3 + 2 - 1}{2} = \binom{4}{2} = 6</span></p> </li> <li> <p>Degree 3: <span class="math">\binom{3 + 3 - 1}{3} = \binom{5}{3} = 10</span></p> </li> </ul> <p><span class="math">\text{Total Dimension} = 1 + 3 + 6 + 10 = 20</span></p>
+
+
+================================================================================
+### Project1 - Virtual TA - Discussion Thread [TDS May 2025] ###
+
+Jivraj:
+<p>Please post any questions related to <a href="https://tds.s-anand.net/#/project-tds-virtual-ta" rel="noopener nofollow ugc">Project 1</a></p> <p>Please use markdown code formatting (fenced code blocks beginning with ```) when sharing code (rather than screenshots). It’s easier for us to copy-paste and test.</p> <p><s>Deadline: <span class="discourse-local-date" data-date="2025-06-14" data-email-preview="Sat, Jun 14, 2025 6:29 PM UTC" data-time="23:59:00" data-timezone="Asia/Calcutta">2025-06-14T18:29:00Z</span></s></p> <p><strong>Deadline:</strong> <span class="discourse-local-date" data-date="2025-06-18" data-email-preview="Wed, Jun 18, 2025 6:29 PM UTC" data-time="23:59:00" data-timezone="Asia/Calcutta">2025-06-18T18:29:00Z</span></p>
+
+23f1002231:
+<p><a class="mention" href="/u/s.anand">@s.anand</a> <a class="mention" href="/u/carlton">@carlton</a></p> <p>Sir i am done with my api endpoint for project 1 but i did one change in the given test file where we have to edit our api endpoint and test it as mentioned in the project description. I was testing my model but was getting the same response every time even though my model was giving the expected answer to those question when tested separately. I found that in the test file (promptfoo.yaml) the cache is marked as true and because of which whenever i try to run the test file it does not hit my api endpoint and take the old response from the cache. So i changed the cache to false and tried running that test file and got the results as shown below in the image.</p> <p><div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/d/d/dd240708061da43e5eb2e962f0a880aa46cc228d.png" data-download-href="/uploads/short-url/vyiHZa4IKMgD5xfBxHJiytEMHBb.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/d/d/dd240708061da43e5eb2e962f0a880aa46cc228d_2_690x338.png" alt="image" data-base62-sha1="vyiHZa4IKMgD5xfBxHJiytEMHBb" width="690" height="338" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/d/d/dd240708061da43e5eb2e962f0a880aa46cc228d_2_690x338.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/d/d/dd240708061da43e5eb2e962f0a880aa46cc228d_2_1035x507.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/d/d/dd240708061da43e5eb2e962f0a880aa46cc228d_2_1380x676.png 2x" data-dominant-color="2A2A2A"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1861×912 105 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p> <p>In this as you can see for the 2nd test case since i am using the openai model to give the final answer so it is using my context and saying that dashboard will show 11/10, but the expected answer should contain “110”. The problem i am facing is as you can see the url given in my response is same as expected which means my model is picking the right context to answer the question but since i am using openai to make my final answer using this context it is very unlikely that it will say that dashboard will show “110” because this doesn’t make sense. So can you please help me how should i tackle this ? As this is the only test case left.</p> <p>And also i have added one prompt field in the test file because i was getting warning regarding this missing field again and again. So is it okay ?</p>
+
+23f1002231:
+<p><a class="mention" href="/u/hritikroshan_hrm">@HritikRoshan_HRM</a> sir can you please help me with this.</p>
+
+Jivraj:
+
+
+23f2003584:
+<p>Not able to access the tds project link.<br> <div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/5/0/509a5196866398173a28b807585d30a1ab8a06e2.png" data-download-href="/uploads/short-url/bv2P5caxKSCRXHncss1UwL0gapc.png?dl=1" title="TDS_Project1" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/5/0/509a5196866398173a28b807585d30a1ab8a06e2.png" alt="TDS_Project1" data-base62-sha1="bv2P5caxKSCRXHncss1UwL0gapc" width="690" height="391" data-dominant-color="2B2327"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">TDS_Project1</span><span class="informations">898×509 16.7 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+HritikRoshan_HRM:
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://tds.s-anand.net/#/project-tds-virtual-ta"> <header class="source"> <img src="https://raw.githubusercontent.com/gramener/assets/main/straive-favicon.svg" class="site-icon" width="500" height="500"> <a href="https://tds.s-anand.net/#/project-tds-virtual-ta" target="_blank" rel="noopener nofollow ugc">tds.s-anand.net</a> </header> <article class="onebox-body"> <h3><a href="https://tds.s-anand.net/#/project-tds-virtual-ta" target="_blank" rel="noopener nofollow ugc">Tools in Data Science</a></h3> </article> <div class="onebox-metadata"> </div> <div style="clear: both"></div> </aside>
+
+23f2003584:
+<p>Not this one the GitHub repository URL and API endpoint URL submission link not opening.<br> Sir my all links are working like I submitted by GA1 also but only my project submission link not working. Please solve the problem. How will I submit my project?</p>
+
+23f1002231:
+<p>Have you completed your project ? I have some doubts.</p>
+
+23f2003584:
+<p>not yet but how will I gonna submit it. I can’t post this at end. My link should be working to submit my project before deadline.</p>
+
+23f1002231:
+<p>Submission date is next month, maybe by then they will fix it. I am also not able access submission link.</p>
+
+VarunAgnihotri:
+<p>Sir, the question’s background specifies that we should use Discourse posts from <a href="https://tds.s-anand.net/#/project-tds-virtual-ta:~:text=TDS%20Discourse%20posts%20with%20content%20from%201%20Jan%202025%20%2D%2014%20Apr%202025." rel="noopener nofollow ugc">January 1, 2025 through April 14, 2025</a>. However, in <a href="https://tds.s-anand.net/project-tds-virtual-ta-promptfoo.yaml" rel="noopener nofollow ugc">first testcase</a> we are asked to answer based on the following Discourse post—which dates outside that window:<br> <a href="https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939">https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939</a></p> <p>Is this an error in the question’s timeframe?</p>
+
+23f1001947:
+<p>Interesting, that’s my post from Sep 24 Term. I am curious about the context and why did an 8 month old post come up in a Test.</p>
+
+23f2003845:
+<p>I guess, this question is also covered in previous term, i.e., t1-2025</p>
+
+VarunAgnihotri:
+<p>Actually, in this term (May 25), we received our first project as <a href="https://tds.s-anand.net/#/project-tds-virtual-ta" rel="noopener nofollow ugc">TDS Virtual TA</a>, where we are tasked with designing a chatbot API that acts as a virtual TA. For this project, your post has been provided as an example test case.</p>
+
+VarunAgnihotri:
+<p>Sorry, but I couldn’t find any related question. Could you please send me the link to the post, if you have it?</p>
+
+23f2003845:
+<p>It maybe in week-4 or 5 GA</p>
+
+VarunAgnihotri:
+<p><a class="mention" href="/u/jivraj">@Jivraj</a> <a class="mention" href="/u/carlton">@carlton</a> Sir, any updates on my issue?</p>
+
+23f1002231:
+<p>Sir, i have build an initial model for my project and when i test some question separately then i get somewhat expected answer like</p> <p><div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/b/9/b9a61e9b1b61ea53912cf4d872266b4b3ffc20da.png" data-download-href="/uploads/short-url/qukeYsW3iznhy9nrhPOB7OkCZ7A.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/b/9/b9a61e9b1b61ea53912cf4d872266b4b3ffc20da.png" alt="image" data-base62-sha1="qukeYsW3iznhy9nrhPOB7OkCZ7A" width="690" height="264" data-dominant-color="1F1F1F"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1136×435 11.3 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p> <p>this is the response which i got from my model</p> <p><a class="mention" href="/u/carlton">@carlton</a> sir can you please help me in this</p>
+
+23f1002231:
+<p>And the in the test file given in the project description this is the response for this question</p> <p><div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/e/2/e2c3c6bfe1fb77ba5a787fb0181c3b12d5dc7528.png" data-download-href="/uploads/short-url/wm3m9gEaUh6QE1BmpURLmzmApbW.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/e/2/e2c3c6bfe1fb77ba5a787fb0181c3b12d5dc7528.png" alt="image" data-base62-sha1="wm3m9gEaUh6QE1BmpURLmzmApbW" width="690" height="211" data-dominant-color="252423"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">965×296 9.81 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+23f1002231:
+<p>This is the response of the same question given in the promtfoo.yaml file which we have to use for the testing purpose by editing our api endpoint.</p> <p>But the issue is, when i test this file by running that promtfoo.yaml file by editing my api endpoin then for this same question the test case fails.</p> <p><div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/7/2/72fc011881b77870a511416d6b8cfe7cb4599cd0.png" data-download-href="/uploads/short-url/gpclAUmO4YHaKhIYFWHPWnSpzzi.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/7/2/72fc011881b77870a511416d6b8cfe7cb4599cd0.png" alt="image" data-base62-sha1="gpclAUmO4YHaKhIYFWHPWnSpzzi" width="690" height="111" data-dominant-color="231D1D"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1179×191 12.9 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p> <p>also the answer which it shows is not what i get when i run my model for this question as shown in the above image. Can you please help me with this, where i am going wrong ?</p>
+
+
+================================================================================
+### Regarding mistake in Week 1 marks showing on dashboard ###
+
+22f2001266:
+<p>Respected concerned authorities,<br> Query 1 - All my answers are correct in Week 1 GA and GRPA, still it is showing 99 marks on the dashboard.<br> In the grade section also, it is showing more than 100 marks in both week 1 and 2 for many students of this course.<br> If all the answers are correct, it should show 100. I have checked multiple times . In all questions , I have got full marks (No wrong answer or partial marks deducted). Please guide.<br> <div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/6/2/6296b0428379b0add1c037a0671d3b313bd2a479.png" data-download-href="/uploads/short-url/e49DJ4DfSXfCzEPg7q0uztgjo2l.png?dl=1" title="Screenshot 2025-06-01 134953" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/6/2/6296b0428379b0add1c037a0671d3b313bd2a479.png" alt="Screenshot 2025-06-01 134953" data-base62-sha1="e49DJ4DfSXfCzEPg7q0uztgjo2l" width="468" height="284"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Screenshot 2025-06-01 134953</span><span class="informations">468×284 14.5 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div><br> <div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/9/a/9a476854b40445d20e68e0e8c47c95a94ad8649a.png" data-download-href="/uploads/short-url/m0OwgqGa9epkUEp51VmSOv6r89A.png?dl=1" title="Screenshot 2025-06-01 135007" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/9/a/9a476854b40445d20e68e0e8c47c95a94ad8649a_2_690x447.png" alt="Screenshot 2025-06-01 135007" data-base62-sha1="m0OwgqGa9epkUEp51VmSOv6r89A" width="690" height="447" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/9/a/9a476854b40445d20e68e0e8c47c95a94ad8649a_2_690x447.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/9/a/9a476854b40445d20e68e0e8c47c95a94ad8649a_2_1035x670.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/9/a/9a476854b40445d20e68e0e8c47c95a94ad8649a_2_1380x894.png 2x" data-dominant-color="F4F4F6"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Screenshot 2025-06-01 135007</span><span class="informations">2161×1403 282 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p> <p>Query 2 - Approximately until when we can expect GA solutions of week 1 and 2 to show on portal in supplementary contents ?<br> Please guide. <a class="mention" href="/u/livin">@livin</a> <a class="mention" href="/u/kubra_7">@kubra_7</a> <a class="mention" href="/u/manidipa2001">@Manidipa2001</a> <a class="mention" href="/u/piyushw">@PiyushW</a> <a class="mention" href="/u/umaiyalakshmi">@umaiyalakshmi</a><br> <a class="mention" href="/u/23f2004399">@23f2004399</a> <a class="mention" href="/u/salim0986">@salim0986</a></p>
+
+kubra_7:
+<p>We will check this. <a class="mention" href="/u/22f2001266">@22f2001266</a></p>
+
+22f2001266:
+<p>No correction has been done till now. In spite of all correct answers in Week 1 GA and GRPA , it is showing 99 till now.<br> <a class="mention" href="/u/livin">@livin</a> <a class="mention" href="/u/kubra_7">@kubra_7</a> <a class="mention" href="/u/manidipa2001">@Manidipa2001</a> <a class="mention" href="/u/piyushw">@PiyushW</a> <a class="mention" href="/u/umaiyalakshmi">@umaiyalakshmi</a> <a class="mention" href="/u/23f2004399">@23f2004399</a> <a class="mention" href="/u/salim0986">@salim0986</a></p>
+
+25dp2000002:
+<p>Mine too<br> <div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/9/d/9d6ce0adc429f91794af37f4edc20a61b54e5808.jpeg" data-download-href="/uploads/short-url/msEeooxKMSbjO8SrRCDhvVHCBV6.jpeg?dl=1" title="python_1" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/9/d/9d6ce0adc429f91794af37f4edc20a61b54e5808_2_349x500.jpeg" alt="python_1" data-base62-sha1="msEeooxKMSbjO8SrRCDhvVHCBV6" width="349" height="500" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/9/d/9d6ce0adc429f91794af37f4edc20a61b54e5808_2_349x500.jpeg, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/9/d/9d6ce0adc429f91794af37f4edc20a61b54e5808.jpeg 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/9/d/9d6ce0adc429f91794af37f4edc20a61b54e5808.jpeg 2x" data-dominant-color="BBBECC"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">python_1</span><span class="informations">500×715 59.4 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+
+================================================================================
+### When will the result of sct be displayed on the dashboard? ###
+
+21f200858_MananT:
+<p><a class="mention" href="/u/man">@man</a> sir when will we be getting the results of our sct exam that we gave last week because till now nothing is shown on the dashboard regarding the sct results. Kindly inform us so that if we didn’t get a success approval we will be mentally prepared to give the sct exam in 2nd window.</p>
+
+Kriticon:
+<p>SCT results still not shown in my courses dashboard. Please help.</p>
+
+Kriticon:
+<p><a class="mention" href="/u/pulkitmangal">@PulkitMangal</a> sir can we know when we will get any update regarding the SCT completion. Still the dashboard is not showing any reflection. I completed SCT by the first day itself. Atleast we want to know that should we reattempt the SCT process again. Or is there any technical glitch in any of the side.<br> Please help…</p>
+
+PulkitMangal:
+<p>The delay might be because of paradox.</p>
+
+Kriticon:
+<p>Sir but for certain people it was updated by first week of June itself. Worried that am I made ineligible due to any reason.</p>
+
+23f2003853:
+<p>In my dash board OPPE AND SCT APPROVAL : 0.00.<br> So far I have not received any communication. can get the reason for 0.00 and get one more chance to attend SCT</p>
+
+23f2000983:
+<p>I have been given 0 in the system compatibility test without an explanation. Honestly, not everyone has some fancy setup or high quality cameras wherein we can see the whole scene with high clarity but if an explanation is provided on as to why SCT score is 0, that will be really helpful so that we can make sure we are more careful the next time around. Otherwise the process is not helpful</p>
+
+23f1002570:
+<p>I attended the SCT before deadline but still I didn’t get the result of SCT.<br> Please resolve the issue.</p>
+
+Vidyan:
+<p>Same here.I don’t have a separate room for myself , so giving SCT is a big challenge and OPPE also. I would anyday opt for an exam at a test centre even if they charge for it .</p>
+
+Vidyan:
+<p>Correction I got 0 and no information on how to get a 1</p>
+
+Aniruddha_A:
+<p>For those who have obtained a 0 for the SCT, please check for the reason in Looker Studio.</p>
+
+Vishnu_742:
+<p>I too got SCT score as O in Dashboard but in Looker Studio I see everything is marked as Approved<br> Any further note on this?</p>
+
+Aniruddha_A:
+<p>Can you please share your email ID?</p>
+
+Vishnu_742:
+<p>21f1000876@ds.study.iitm.ac.in</p>
+
+Aniruddha_A:
+<aside class="quote group-ds-students" data-username="Vishnu_742" data-post="14" data-topic="177385" data-full="true"> <div class="title"> <div class="quote-controls"></div> <img alt="" width="24" height="24" src="https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/vishnu_742/48/10172_2.png" class="avatar"> Vishnu_742:</div> <blockquote> <p>21f1000876@ds.study.iitm.ac.in</p> </blockquote> </aside> <p>Can you share a screenshot of the dashboard on my email? My email ID is aniruddha@study.iitm.ac.in</p>
+
+23f2000983:
+<p>Well, it looks like there is a discrepancy in the looker studio data and the data sent over whatsapp. Apparently on Looker Studio, it is showing that the picture was rejected in every criteria except room lighting. But on my whatsapp, the reason shown is computer screen not entirely visible (which I understand and will try to improve). Are we just not allowed to sit on our beds while sitting for the SCT because in my study table, the visibility of full hands will be even less due to the positioning with respect to my room. Are the photos just checked by AI, not keeping students’ room conditions in mind. If the issue is as such, the exam should be taken in an exam center instead of all this inconvenience. And kindly look into the mismatch because your reasoning on two different platforms are contradicting each other</p>
+
+Aniruddha_A:
+<p>Please refer to the details on Looker studio to understand why the SCT has been approved / rejected.</p> <p>An email was sent to all students today morning confirming the approval / rejection. That is the final result of the SCT.</p>
+
+21f200858_MananT:
+<p>I am unable to view my result of SCT on Looker studio because my result has been shared on my personal email id. If I change my id in Looker studio with my student email id, I am not able to see my report <a class="mention" href="/u/aniruddha_a">@Aniruddha_A</a> sir. Kindly please share the report to my student email id. Whenever I am opening the looker studio link, I am being redirected to my personal email id where no data of result is available. Kindly look into this issue.<br> <div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/7/6/763cf0d0ca147dbdd981374d5630143e424b031c.png" data-download-href="/uploads/short-url/gRYUbVTe8rjrUFFaxc07WBj4W3a.png?dl=1" title="Screenshot (195)" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/7/6/763cf0d0ca147dbdd981374d5630143e424b031c_2_690x388.png" alt="Screenshot (195)" data-base62-sha1="gRYUbVTe8rjrUFFaxc07WBj4W3a" width="690" height="388" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/7/6/763cf0d0ca147dbdd981374d5630143e424b031c_2_690x388.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/7/6/763cf0d0ca147dbdd981374d5630143e424b031c_2_1035x582.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/7/6/763cf0d0ca147dbdd981374d5630143e424b031c_2_1380x776.png 2x" data-dominant-color="F0F1F2"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Screenshot (195)</span><span class="informations">1920×1080 103 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+Kriticon:
+<p>Thank you <a class="mention" href="/u/pulkitmangal">@PulkitMangal</a> sir, now got my SCT approved in dashboard.</p> <p>Just wanted to know one more thing. Is it valid for 3 more terms from now?? Or should I give it for every term.</p>
+
+
+================================================================================
+### Query regarding ID card ###
+
+25f2000117:
+<p>I didn’t receive my ID Card. I have checked in the “Documents for download” but it is not there. When will I get it? Or will it take time? Does anyone received the ID card?</p>
+
+24f3000936:
+<p>You will get your ID card before Quiz-1, many students haven’t got it yet.</p>
+
+25f2100147:
+<p>even I didn’t receive the ID card. when will I receive it whether I will get any prior information about the delivery of the ID card in my mail</p>
+
+
+================================================================================
+### Unable to submit Python Grpa assignments ###
+
+25f1001247:
+<p><a class="mention" href="/u/manidipa2001">@Manidipa2001</a><br> <a class="mention" href="/u/umaiyalakshmi">@umaiyalakshmi</a></p> <p>Hello everyone . I just couldn’t submit my week1 Python Grpa because I didn’t understand how to answer and submit. Initially, I thought that the entire code has to be typed and tried doing that by erasing the default code written and it was all futile.<br> After this, I understood that I had to just type the snippets of code but my week 2 Grpa had many cases (for example: case 1,2,3,4 etc).<br> Thus, when I typed the code, it displayed all outputs for all test cases in case 1 specifically. I tried resolving it and eventually thought maybe that’s how you submit it but soon realised that my submission was futile and I didn’t get any marks.<br> It’s not that I completely don’t know how to code, but I am unable execute the code there.<br> I raised this issue and my concern of being eligible to attend Oppe to the support team who eventually told me to put this on discourse.<br> I would appreciate if I receive any help in this matter.</p>
+
+24f3000936:
+<p>Don’t remove the default code, the comments in that default code will walk you through the whole code and according to that you may complete the snippet of your GRPAs. Be that as it may for the week 1 GRPAs, try not to repeat the same for the remaining weeks.</p>
+
+25f1001247:
+<p>Thank you for your advice, I will be careful. But they say that you should attend all 4 Grpa from week 1 to 4 to be eligible for Oppe. So Is there any other way ?<br> One of the members in discourse told me tag the instructors.<br> <a class="mention" href="/u/umaiyalakshmi">@umaiyalakshmi</a><br> <a class="mention" href="/u/23f2004399">@23f2004399</a><br> Thus I request you to help me resolve this issue.</p>
+
+24f3000936:
+<p><a class="mention" href="/u/salim0986">@salim0986</a> <a class="mention" href="/u/livin">@livin</a> <a class="mention" href="/u/kubra_7">@kubra_7</a> sir can you help him with this issue.</p>
+
+
+================================================================================
+### Not receiving any mails related to MLP Project ###
+
+harsh2479:
+<p><a class="mention" href="/u/jimmi">@jimmi</a> sir, I had registered last term for MLP Project for first time. I have carried over the project to this term. But I have not been receiving mails related to the project this term. I mailed support as well but didn’t get any resolution. Please look into this.</p>
+
+jimmi:
+<p>Have you re-registered for the project this term?</p>
+
+harsh2479:
+<p>Yes sir, I have re-registered this term.</p>
+
+Manya:
+<p>I have the same issue. Kindly help.</p>
+
+
+================================================================================
+### A humble request to the TDS Course Team ###
+
+23f1000917:
+<p><a class="mention" href="/u/carlton">@carlton</a> and <a class="mention" href="/u/jivraj">@Jivraj</a></p> <p>Respected Sir</p> <p>It was my first time doing web scraping and other tasks required for this project. After watching the live sessions, I realized that my approach was wrong. The live sessions are really good <strong>but</strong>, they are being conducted too close to the deadline (started on 10th June). In the sessions, it was said that this project could be completed in a day, but I don’t feel that this is the case for me (not even close), though that might just be my own inefficiency.</p> <p>Aside from that, the method of using the Gemini model demonstrated in the sessions only allowed me to generate embeddings for the first 100 chunks (max per day), there are way more than that in my workflow. I have to spend time finding other alternatives to create embeddings before I make the final submission with the openAI api. So, I humbly request, if it is possible, please consider extending the deadline by a few days. There is not enough time to absorb what was taught in the live sessions and implement it as complete beginner.</p> <p>Thank you.</p>
+
+Rajesh3034:
+<aside class="quote group-ds-students" data-username="23f1000917" data-post="1" data-topic="179034"> <div class="title"> <div class="quote-controls"></div> <img alt="" width="24" height="24" src="https://avatars.discourse-cdn.com/v4/letter/2/58956e/48.png" class="avatar"> 23f1000917:</div> <blockquote> <p>Aside from that, the method of using the Gemini model demonstrated in the sessions only allowed me to generate embeddings for the first 100 chunks (max per day), there are way more than that in my workflow. I have to spend time finding other alternatives to create embeddings before I make the final submission with the openAI api. So, I humbly request, if it is possible, please consider extending the deadline by a few days. There is not enough time to absorb what was taught in the live sessions and implement it as complete beginner.</p> </blockquote> </aside> <p>it will be helpful if deadline extended by 2-3 days</p>
+
+23f2000566:
+<p>Yes sir please extend the deadline</p>
+
+23f2004624:
+<p>please extend the deadline</p>
+
+lokesh21:
+<p>please extend the deadline</p>
+
+harbinger:
+<p>(post deleted by author)</p>
+
+iAnimeshS:
+<p>Already extended till 18th.</p> <aside class="quote group-ds-students" data-username="Jivraj" data-post="1" data-topic="176077" data-full="true"> <div class="title"> <div class="quote-controls"></div> <img alt="" width="24" height="24" src="https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/48.png" class="avatar"><a href="/t/176077/1">On another topic</a></div> <blockquote> <p>Please post any questions related to <a href="https://tds.s-anand.net/#/project-tds-virtual-ta" rel="noopener nofollow ugc">Project 1</a></p> <p>Please use markdown code formatting (fenced code blocks beginning with ```) when sharing code (rather than screenshots). It’s easier for us to copy-paste and test.</p> <p><s>Deadline: <span class="discourse-local-date" data-date="2025-06-14" data-email-preview="Sat, Jun 14, 2025 6:29 PM UTC" data-time="23:59:00" data-timezone="Asia/Calcutta">2025-06-14T18:29:00Z</span></s></p> <p><strong>Deadline:</strong> <span class="discourse-local-date" data-date="2025-06-18" data-email-preview="Wed, Jun 18, 2025 6:29 PM UTC" data-time="23:59:00" data-timezone="Asia/Calcutta">2025-06-18T18:29:00Z</span></p> </blockquote> </aside>
+
+
+================================================================================
+### She Crossed My Path, and That Was Enough ###
+
+ujjisharma:
+<p>Falling in love is the most beautiful feeling I’ve experienced till now.<br> It happened just last month, and honestly, it felt magical — almost divine.<br> People say falling in love is rare, and now I believe them.<br> Because I’ve felt it.</p> <p>Her eyes hold the depth of the deepest oceans.<br> Her smile carries the warmth of the brightest sun.<br> She shines brighter than the stars.<br> Just her presence is enough to make me smile.</p> <p>Her photos are a new kind of joy for me.<br> They don’t just show her — they feel alive.<br> More alive than even the greenest of forests.<br> Flowers seem like a small imitation of her beauty.<br> And when I look at her pictures, time either stops… or flies away. No one really knows.</p> <p>My heart is so full of her, I can barely call it mine anymore.</p> <p>Before all this, I never felt anything close to this.<br> In fact, I never even wanted to.<br> I wanted to stay by myself, travel the world, collect memories, and share stories.<br> But then she came in — like a calm storm.<br> She disrupted everything I had planned.<br> And still… it felt like I was floating on cloud nine.</p> <p>The weirdest part?<br> I hadn’t even seen her in real life yet.<br> Still, I could feel the connection.<br> Everything matched — our thoughts, our choices, our behaviour.<br> She could even finish my sentences.<br> She’s just… cool. Way too cool.<br> That’s the only word I can find for it.</p> <p>This feeling started even before I saw her.<br> But now, when I close my eyes, all I see is her face.<br> Her voice stays in my ears like a soft, sweet melody.</p> <p>I held all this in until one day she asked,<br> “Why are you so different with me?”<br> The guy who always looked like he didn’t care about anyone<br> Was now replying even on his busiest days,<br> Doing everything for one girl.</p> <p>At first, like most boys, I lied.<br> Said it’s nothing.<br> But later, the weight of the truth got too heavy.<br> So I told her everything.</p> <p>And what I found out wasn’t surprising.<br> She already knew.</p> <p>We had a long talk.<br> She had her reasons.<br> She was honest, and I respected that.<br> She said this thing between us wasn’t going to lead anywhere —<br> So there was no point in continuing it.</p> <p>Did it break my heart?<br> A little, yes.<br> But every reason she gave made sense.<br> And I accepted it.</p> <p>Because here’s the thing —<br> No matter how pure your feelings are,<br> No matter how strong your love is,<br> You can’t force someone to feel the same.<br> Love is only love when it’s mutual.</p> <p>Maybe it sounds childish.<br> But for me, this was rare.<br> Very rare.</p> <p>I don’t feel this way about just anyone.<br> Even if she doesn’t feel the same way back,<br> I still want to see her grow.<br> Still want to be there in some way.<br> Still want to support her — even from a far.</p> <p>Everything felt magical.<br> And honestly, it still does.<br> But sometimes, magic isn’t meant to last forever.</p> <p>She’s still everything I could ever ask for.<br> And I feel happy,<br> At least…<br> That we crossed paths.</p>
+
+itzzalexisabraham:
+<p>Felt every word Bhai <img src="https://emoji.discourse-cdn.com/google/people_hugging.png?v=14" title=":people_hugging:" class="emoji" alt=":people_hugging:" loading="lazy" width="20" height="20"><img src="https://emoji.discourse-cdn.com/google/people_hugging.png?v=14" title=":people_hugging:" class="emoji" alt=":people_hugging:" loading="lazy" width="20" height="20"></p>
+
+priyaraj:
+<p>awsome lines bro.<br> and the way u describe ur feeling is too amazing..</p>
+
+PrinceDixit:
+<p>Call me a buzzkill but this is just chemicals at play. And I like these chemicals when they’re at play. I’ve felt like this for two girls in the past and it feels like floating. But they’re just chemicals which can be manipulated in various ways.</p>
+
+ujjisharma:
+<p>That’s a fair perspective—<br> But to me, these chemicals feel rare, almost sacred.<br> Yes, I know it’s all just reactions in the brain. And maybe that’s the truth.<br> But what they did to me… it felt like magic.<br> And I can’t just shrug it off as “chemicals at play”—because some storms don’t just pass through you, they <em>change</em> you.</p>
+
+25F2000153:
+<p>An engaging read, awesome Ujji.</p>
+
+PrinceDixit:
+<p>Exactly! These experiences are definitely transforming and worth having.</p>
+
+
+================================================================================
+### Request for Update on Registration Status After Correcting Team Name - MLP Project ###
+
+23f1000674:
+<p>Dear Sir,<br> I noticed that my registration was marked as failed due to incorrect team name. I have updated the team name, but the status in Excel sheet remains unchanged. As tomorrow is the last date , please kindly look into this <a class="mention" href="/u/jimmi">@jimmi</a> <a class="mention" href="/u/mano">@mano</a></p> <p>Thankyou</p>
+
+23f1002382:
+<p><a class="mention" href="/u/jacob">@Jacob</a> Please advise on this post also</p><aside class="quote" data-post="1" data-topic="179152"> <div class="title"> <div class="quote-controls"></div> <img alt="" width="24" height="24" src="https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002382/48/68945_2.png" class="avatar"> <a href="https://discourse.onlinedegree.iitm.ac.in/t/regarding-first-submission/179152">Regarding first submission</a> <a class="badge-category__wrapper " href="/c/courses/mlpp/52"><span data-category-id="52" style="--category-badge-color: #0088CC; --category-badge-text-color: #FFFFFF; --parent-category-badge-color: #3AB54A;" data-parent-category-id="9" data-drop-close="true" class="badge-category --has-parent"><span class="badge-category__name">Project for MLP</span></span></a> </div> <blockquote> In the Registration sheet, it had said registration failed and the last day was 10th? Is there extension for rectifying errors (i had given my Kaggle name not user name)? I have just updated the google forms, unable to create a new one. Please Advise <a class="mention" href="/u/jacob">@Jacob</a> <a class="mention" href="/u/jimmi">@jimmi</a> </blockquote> </aside>
+
+AnshumanP:
+<p>I naively posted my kaggle name as team name in Gform. I have rectified the mistake in Gform and kaggle. When can I get the updated registration sheet? <a class="mention" href="/u/jimmi">@jimmi</a> <a class="mention" href="/u/man">@man</a></p>
+
+
+================================================================================
+### Challenge 5 ###
+
+sourabhwarrier:
+<p><span class="math">f(x)=^{2025}x-^{2024}x - ... - ^{2}x - x</span> <span class="math">|</span> <span class="math">x \in\mathbb{R^{+}}</span>. Prove that <span class="math">f(x)</span> has exactly <span class="math">2</span> critical points.</p> <p>The previous challenge in this series is <a href="https://discourse.onlinedegree.iitm.ac.in/t/challenge-4/175454">Challenge</a> 4.</p>
+
+25f2004017:
+<p>Just for clarification, is that tetration being performed?</p>
+
+sourabhwarrier:
+<p>Yes.‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</p>
+
+
+================================================================================
+### Project 1 submission deadline ###
+
+lokesh21:
+<p><a class="mention" href="/u/carlton">@carlton</a> Sir could you please extend the deadline for the submission of the project-1 by one more day.</p>
+
+22f3002149:
+<p>Sir, Please check possibility of few days extension as some of the tasks requires throttling and unable to get it done on time.</p>
+
+
+================================================================================
+### DBMS week 3 practise question 4 ###
+
+Priyanshuu:
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/e/d/ed2544e512ad0e906106c45ce38258bcb8798639.png" data-download-href="/uploads/short-url/xPT0zr2IUxQqiVObgnM11JpX5Gx.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/e/d/ed2544e512ad0e906106c45ce38258bcb8798639_2_690x388.png" alt="image" data-base62-sha1="xPT0zr2IUxQqiVObgnM11JpX5Gx" width="690" height="388" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/e/d/ed2544e512ad0e906106c45ce38258bcb8798639_2_690x388.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/e/d/ed2544e512ad0e906106c45ce38258bcb8798639_2_1035x582.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/e/d/ed2544e512ad0e906106c45ce38258bcb8798639_2_1380x776.png 2x" data-dominant-color="EAEAEC"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1920×1080 282 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div><br> <a class="mention" href="/u/piyushw">@PiyushW</a><br> why iam getting this error</p> <p>Incorrect select query<br> Creating new PostgreSQL cluster 10/regress …<br> /usr/lib/postgresql/10/bin/initdb -D /pg_virtualenv.to6huM/data/10/regress --auth-local peer --auth-host md5 --username=nsjail --pwfile=/pg_virtualenv.to6huM/postgresql-common/pwfile --nosync<br> The files belonging to this database system will be owned by user “nsjail”.<br> This user must also own the server process.</p> <p>The database cluster will be initialized with locale “C.UTF-8”.<br> The default database encoding has accordingly been set to “UTF8”.<br> The default text search configuration will be set to “english”.</p> <p>Data page checksums are disabled.</p> <p>fixing permissions on existing directory /pg_virtualenv.to6huM/data/10/regress … ok<br> creating subdirectories … ok<br> selecting default max_connections … 100<br> selecting default shared_buffers … 128MB<br> selecting default timezone … Etc/UTC<br> selecting dynamic shared memory implementation … posix<br> creating configuration files … ok<br> running bootstrap script … ok<br> performing post-bootstrap initialization … ok</p> <p>Sync to disk skipped.<br> The data directory might become corrupt if the operating system crashes.</p> <p>Success. You can now start the database server using:</p> <pre><code>/usr/lib/postgresql/10/bin/pg_ctl -D /pg_virtualenv.to6huM/data/10/regress -l logfile start </code></pre> <p>Warning: The parent /var/run/postgresql of the selected<br> stats_temp_directory does not exist. Not adding this setting in<br> postgresql.conf.<br> Ver Cluster Port Status Owner Data directory Log file<br> 10 regress 5432 online nsjail /pg_virtualenv.to6huM/data/10/regress /pg_virtualenv.to6huM/log/postgresql-10-regress.log</p> <p>CREATE DATABASE<br> faculty_fname|faculty_lname<br> Sanchit|Jain<br> Sumanta|Kuiley<br> Shantanu|Kuiley<br> Arpita|Das<br> Sanchit|Paramanik<br> Pramad|Mahto<br> Subhash|Das<br> jitendra|raj<br> Prakash|Maji<br> Surendra|rana<br> Kavita|Saha<br> Vijaya|Bhoi<br> Sachin|Dey<br> Raja|Jahan<br> Lata|Saw<br> (15 rows)<br> Setting up..<br> Running student submitted sql<br> END_OF_INSIDE_VIRTUALENV<br> Dropping cluster 10/regress …</p>
+
+KritiT:
+<p>Your SQL query returns 15 rows, while mine (public passed) returns 16. I manually checked and found out that Pinki Madal is not in members table but is in faculty, so when you write this statement <code>faculty.id = members.id</code>, it rules out Pinki.</p> <p>Here is my answer:<br> <code>select faculty_fname, faculty_lname from faculty where id in ( select distinct id from faculty except select distinct id from book_issue i, members m where i.member_no = m.member_no) </code></p>
+
+
+================================================================================
+### MLP project kaggle Issue ###
+
+ankit2001:
+<p>I am trying to submit dummy model but kaggle show error. I tried multple times. I checked in excel sheets ID is present. Even I used chatgpt for fix but still not solved. please help<br> <div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/f/5/f500fa13cfd8fdc6c823c578395506af7310c8c4.png" data-download-href="/uploads/short-url/yXp4xjBIWGPcqcFHgsRTJrWzBhG.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/f/5/f500fa13cfd8fdc6c823c578395506af7310c8c4_2_681x500.png" alt="image" data-base62-sha1="yXp4xjBIWGPcqcFHgsRTJrWzBhG" width="681" height="500" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/f/5/f500fa13cfd8fdc6c823c578395506af7310c8c4_2_681x500.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/f/5/f500fa13cfd8fdc6c823c578395506af7310c8c4.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/f/5/f500fa13cfd8fdc6c823c578395506af7310c8c4.png 2x" data-dominant-color="FDFDFD"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">956×701 21.5 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+23f2000237:
+<ol> <li>Try naming the column “id” all in lower case, and make sure your target column is named “ <strong>purchaseValue</strong>”</li> <li>Make sure the index starts from 0</li> <li>If the issue persists, please check the logs.</li> </ol>
+
+ankit2001:
+<p>Now submitted but my username is something else beacuse I made kaggle account earlier with iitm id so now I can’t change username like 21f1001001</p>
+
+23f2000237:
+<p>Please change your <strong>Team name</strong> to be your roll number.<br> You can’t change your Kaggle username, as that is not possible, but please change your team name</p>
+
+ankit2001:
+<p>Provide your competition <strong>Team Name</strong> (which is also your kaggle username)</p> <p>This is in google form. I need to change team name as roll number ?</p> <p>Also in project documents ----</p> <ol> <li>Change your team name to your Kaggle Username.</li> <li>This is project registration form response. They are saying to update for same as username<br> <div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/b/7/b7b1a6cd509720a0287d4caba034de80ef7f7d39.png" data-download-href="/uploads/short-url/qd1ZCgD01S9kwtcnaRbDJhwBqOZ.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/b/7/b7b1a6cd509720a0287d4caba034de80ef7f7d39.png" alt="image" data-base62-sha1="qd1ZCgD01S9kwtcnaRbDJhwBqOZ" width="308" height="500" data-dominant-color="D0A6A2"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">491×797 31.2 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></li> </ol>
+
+23f2000237:
+<p>Sorry my mistake, your team name could be anything, just make sure that’s your Kaggle username.</p>
+
+
+================================================================================
+### Assignments not uploaded , no updates on whatsapp also for city change option for quiz exam update was not given in whatsapp and updates section in website ###
+
+smeetukey:
+<p>Please ensure that you provide the following details to better respond to your query:</p> <ol> <li>Specific URL or applic<br> <div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/a/d/ad8cb6ea311bbcacc1a68b4652246cc95f866a94.png" data-download-href="/uploads/short-url/oLi54A3TYJ3mOvIpWZFEbBM5hOY.png?dl=1" title="Screenshot (4050)" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/a/d/ad8cb6ea311bbcacc1a68b4652246cc95f866a94_2_690x388.png" alt="Screenshot (4050)" data-base62-sha1="oLi54A3TYJ3mOvIpWZFEbBM5hOY" width="690" height="388" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/a/d/ad8cb6ea311bbcacc1a68b4652246cc95f866a94_2_690x388.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/a/d/ad8cb6ea311bbcacc1a68b4652246cc95f866a94_2_1035x582.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/a/d/ad8cb6ea311bbcacc1a68b4652246cc95f866a94_2_1380x776.png 2x" data-dominant-color="DEDEDF"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Screenshot (4050)</span><span class="informations">1920×1080 239 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div><br> ation details where you are facing the issue</li> <li>Screenshot or <code>Error Text</code></li> <li>The approximate date and time that you are facing the query 14 /06/ 2025</li> <li>The actions that you have done till now after seeing this error many times</li> </ol>
+
+Gurkirat:
+<p>For assignment issue:<br> Deadline is not over so score will be visible after deadline is over.</p> <p>For city change:<br> They sent the reminders on mail.</p>
+
+
+================================================================================
+### Discrepancies in Peer Reviews in Extra Activity ###
+
+24f3002358:
+<p>My specific doubt is on the topic:Extra Activity in Statistics 2<br> My doubt is: i have completed the extra activity according to the given criteria but my peer reviewers have not awarded the marks correctly</p> <p>I have already about this to iitm support.I kindly request to award my marks correctly.</p> <aside class="onebox allowlistedgeneric" data-onebox-src="https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fd%2F1kn74kG9T1-fkklrAko04OqX_hM7nwgQA%2Fp%2F1wrlqr6gk-QhlYSDpQavGcrJBYo2lyZTT%2Fedit&amp;followup=https%3A%2F%2Fsites.google.com%2Fd%2F1kn74kG9T1-fkklrAko04OqX_hM7nwgQA%2Fp%2F1wrlqr6gk-QhlYSDpQavGcrJBYo2lyZTT%2Fedit&amp;ifkv=AdBytiPfNzuQHzScDos7divsWWAfvpe1KNUVLjcCpfXum6uueJLjxSDahttaA-9Fl_Of6iQ0XLrt7Q&amp;osid=1&amp;passive=1209600&amp;service=wise&amp;flowName=GlifWebSignIn&amp;flowEntry=ServiceLogin&amp;dsh=S118406558%3A1749888181755511"> <header class="source"> <a href="https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fd%2F1kn74kG9T1-fkklrAko04OqX_hM7nwgQA%2Fp%2F1wrlqr6gk-QhlYSDpQavGcrJBYo2lyZTT%2Fedit&amp;followup=https%3A%2F%2Fsites.google.com%2Fd%2F1kn74kG9T1-fkklrAko04OqX_hM7nwgQA%2Fp%2F1wrlqr6gk-QhlYSDpQavGcrJBYo2lyZTT%2Fedit&amp;ifkv=AdBytiPfNzuQHzScDos7divsWWAfvpe1KNUVLjcCpfXum6uueJLjxSDahttaA-9Fl_Of6iQ0XLrt7Q&amp;osid=1&amp;passive=1209600&amp;service=wise&amp;flowName=GlifWebSignIn&amp;flowEntry=ServiceLogin&amp;dsh=S118406558%3A1749888181755511" target="_blank" rel="noopener nofollow ugc">accounts.google.com</a> </header> <article class="onebox-body"> <h3><a href="https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fd%2F1kn74kG9T1-fkklrAko04OqX_hM7nwgQA%2Fp%2F1wrlqr6gk-QhlYSDpQavGcrJBYo2lyZTT%2Fedit&amp;followup=https%3A%2F%2Fsites.google.com%2Fd%2F1kn74kG9T1-fkklrAko04OqX_hM7nwgQA%2Fp%2F1wrlqr6gk-QhlYSDpQavGcrJBYo2lyZTT%2Fedit&amp;ifkv=AdBytiPfNzuQHzScDos7divsWWAfvpe1KNUVLjcCpfXum6uueJLjxSDahttaA-9Fl_Of6iQ0XLrt7Q&amp;osid=1&amp;passive=1209600&amp;service=wise&amp;flowName=GlifWebSignIn&amp;flowEntry=ServiceLogin&amp;dsh=S118406558%3A1749888181755511" target="_blank" rel="noopener nofollow ugc">Google Drive: Sign-in</a></h3> <p>Access Google Drive with a Google account (for personal use) or Google Workspace account (for business use).</p> </article> <div class="onebox-metadata"> </div> <div style="clear: both"></div> </aside> <p><div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/6/6/664bd3e8468919db65e064dc4deed5f81d21c165.png" data-download-href="/uploads/short-url/eAXa3zgSaH0MpZbgqZ0ZzbhWgBf.png?dl=1" title="Screenshot 2025-06-14 133522" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/6/6/664bd3e8468919db65e064dc4deed5f81d21c165.png" alt="Screenshot 2025-06-14 133522" data-base62-sha1="eAXa3zgSaH0MpZbgqZ0ZzbhWgBf" width="423" height="217"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Screenshot 2025-06-14 133522</span><span class="informations">423×217 6 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p> <p>COURSE:STATISTICS II</p> <p>NAME:KEERTHI CHALAVADI</p> <p>STUDENT ID:24F3002358</p> <p>Course instructors:<br> Prashant Sharma<br> Prerna Gupta<br> Swathy S Sajeev</p> <p><a class="mention" href="/u/prernagupta">@PrernaGupta</a> <a class="mention" href="/u/swathy">@swathy</a></p>
+
+24f3002358:
+<p>*I have already mailed this to iitm support.</p>
+
+Gurkirat:
+<p>Marks given by peers are not final marks. So dont worry.<br> Final marks will be given by team only.</p>
+
+Hermione_V:
+<p>Do not worry, these will not be your final marks. TAs will cross verify the marks.</p>
+
+
+================================================================================
+### Github account made using the IITM email id keeps getting blocked ###
+
+Krishnandu:
+<p>Hello everyone,<br> I have earlier submitted the project1 successfully and saved it to. Today i just wanted to verify if my submissions were still working as the project said (The URL should be accessible when the project team evaluates your submission.)</p> <p>The API endpoint which i depolyed on Render is still working just fine<br> (takes a little while when tested after a while for the application to start)</p> <p>but the github repo which i used to deploy the project is not accesibible</p> <p>This is second time my github account got blocked.</p> <p>And i am also unable to unblock it today as i have already surpassed the sms otp limit for the day (it was going to spam <img src="https://emoji.discourse-cdn.com/google/confused.png?v=14" title=":confused:" class="emoji" alt=":confused:" loading="lazy" width="20" height="20"> )</p> <p>Please let me know if i will be scored fairly</p>
+
+
+================================================================================
+### Npx -y promptfoo eval --config project-tds-virtual-ta-promptfoo.yaml error ###
+
+23f1000129:
+<ol> <li> <pre><code class="lang-auto"></code></pre> </li> </ol> <p>npx -y promptfoo eval --config project-tds-virtual-ta-promptfoo.yaml</p> <pre><code class="lang-auto">i am getting the following error expected output to contain "https://discourse.online... could you pls tell what changes should i make to my api code. thanks from fastapi import FastAPI from pydantic import BaseModel from typing import Optional, List import json from fastapi.responses import JSONResponse # Load data from JSON file with open("discourse_posts.json", "r") as f: discourse_posts = json.load(f) app = FastAPI() # Define request/response models class QuestionRequest(BaseModel): question: str image: Optional[str] = None class Link(BaseModel): url: str text: str class AnswerResponse(BaseModel): answer: str links: List[Link] url: str topic_title: str @app.post("/api", response_model=AnswerResponse) async def get_answer(request: QuestionRequest): print("Received question:", request.question) question = request.question for post in discourse_posts: if any(word.lower() in question.lower() for word in post["question_keywords"]): return AnswerResponse( answer=post["answer"], links=[Link(**link) for link in post["links"]], url=post["url"], topic_title=post["topic_title"] ) # Default fallback response with required fields return AnswerResponse( answer="Sorry, I couldn't find an answer to your question.", links=[], url="https://tds.s-anand.net/#/", topic_title="Unknown topic" ) @app.get("/") async def read_root(): return {"message": "TDS API server is running."} @app.get("/favicon.ico") async def favicon(): return {} pls help @jivraj @hrithik</code></pre>
+
+23f1000129:
+<p><a class="mention" href="/u/jivraj">@Jivraj</a> <a class="mention" href="/u/hritikroshan_hrm">@HritikRoshan_HRM</a></p>
+
+
+================================================================================
+### Dbms week 2 sql private assignment ###
+
+24f2005206:
+<p>dbms week2 sql practice questions private tests not passing<br> <div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/c/5/c5b41349b5fa8dc437f62ccf96fdc1a85c09a67d.png" data-download-href="/uploads/short-url/scXS1myNpgQjWhYwWGjFXIpSXJb.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/c/5/c5b41349b5fa8dc437f62ccf96fdc1a85c09a67d_2_690x446.png" alt="image" data-base62-sha1="scXS1myNpgQjWhYwWGjFXIpSXJb" width="690" height="446" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/c/5/c5b41349b5fa8dc437f62ccf96fdc1a85c09a67d_2_690x446.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/c/5/c5b41349b5fa8dc437f62ccf96fdc1a85c09a67d_2_1035x669.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/c/5/c5b41349b5fa8dc437f62ccf96fdc1a85c09a67d.png 2x" data-dominant-color="FAF9F8"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1227×794 60.5 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+Gurkirat:
+<p>Dont worry about private cases of practice ques in DBMS.<br> Note: For graded ones they will be passed after deadline is over.</p>
+
+
+================================================================================
+### CORS settings for the deployed project ###
+
+Rohith10:
+<p>I have allowed <a href="https://exam.sanand.workers.dev" rel="noopener nofollow ugc">https://exam.sanand.workers.dev</a> in CORS of TDS project 1. Is this enough or should I give access to every site i.e [“*”] ?</p>
+
+Rohith10:
+<p><a class="mention" href="/u/carlton">@carlton</a> sir, please clarify</p>
+
+
+================================================================================
+### Command prompt in SQL ###
+
+22f3001724:
+<p>(topic deleted by author)</p>
+
+
+================================================================================
+### Regarding bootstrap ###
+
+23f2003155:
+<p>in viva instructor , Can instructor ask question about internal styling of bootstrap as we have to do some modification in it according to our project? If i use svg for logo svg code explanation also asked .Does bootstrap script allowed?</p>
+
+
+================================================================================
+### Need help contacting Ashish Gupta regarding re-entry to notion workspace ###
+
+Amana:
+<p>Hi everyone,</p> <p>I’m looking for a way to get in touch with Ashish Gupta (21f1006285@ds.study.iitm.ac.in) who had created a Notion workspace that I was previously part of. I accidentally left the workspace and lost access to some of my personal study notes which are very important to me.</p> <p>If anyone knows Ashish Gupta or can help me reach out to him, I would really appreciate it.</p> <p>Thanks a lot for your time and help!</p> <p>Aman<br> 25f2001262@ds.study.iitm.ac.in</p>
+
+
+================================================================================
+### Can I get more practice programming assignments please? ###
+
+shankarkris1:
+<p>Hi, I find that I get better at understanding the syntax and logic when actually coding.</p> <p>Can anybody please point me to the place where I can get more of these programming assignments for practice?</p> <p>Thanks in advance.</p>
+
+
+================================================================================
